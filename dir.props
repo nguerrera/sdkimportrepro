@@ -1,5 +1,0 @@
-<Project>
-  <Import Sdk="Microsoft.NET.Sdk" Project="Sdk.props" />
-</Project>
-
-
